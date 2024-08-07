@@ -11,6 +11,11 @@ Este projeto tem como objetivo a ingestão de dados de um arquivo XML, a transfo
 - **Transformação e Armazenamento em Tabela Prata**: Os dados são transformados (tipos de dados ajustados) e salvos em uma tabela Delta Lake na camada prata.
 - **Agregação e Armazenamento em Tabela Ouro**: Dados são agregados e salvos em uma tabela Delta Lake na camada ouro para análise e visualização.
 
+  ![dashboard_xml_Double_Flip_skate_shop](https://github.com/user-attachments/assets/2412fa27-e06d-4d01-976a-bd3bcfc74d80)
+  ![table_xml_Double_Flip_skate_shop](https://github.com/user-attachments/assets/f504998a-6a36-44d7-ad85-5aa60dd2b187)
+
+
+
 ## Requisitos
 
 - **Apache Spark**: A versão 3.0 ou superior é recomendada.
